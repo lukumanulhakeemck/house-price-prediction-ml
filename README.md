@@ -31,4 +31,4 @@ This project predicts house prices using machine learning.
 - Number of schools nearby
 - Distance from the airport
 ## Result:
- Achieved R2 Score of ~0.7
+ Achieved R2 Score of ~0.7678739802736996
